@@ -31,8 +31,9 @@ There is a Heroku post build script so that you do not have to compile your Reac
 ## Application Info
 ### Author
 
-Intructor: [Brad Traversy](https://www.traversymedia.com/)
-Learner: [Khoa Nguyen](http://henrykhoanguyen.github.io)
+**Intructor:** [Brad Traversy](https://www.traversymedia.com/)
+
+**Learner:** [Khoa Nguyen](http://henrykhoanguyen.github.io)
 
 ### Version
 
