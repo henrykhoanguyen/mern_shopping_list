@@ -1,6 +1,6 @@
 # MERN SHOPPING LIST
 ## Description
-A shopping list that use MERN stack - MongoDB, Express.js, React.js, and Node.js. This is a [Youtube series](https://www.youtube.com/playlist?list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE)  of web development course taught by [Brat Traversy](https://www.traversymedia.com/)
+A shopping list that use MERN stack - MongoDB, Express.js, React.js, and Node.js. This is a [Youtube series](https://www.youtube.com/playlist?list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE) of a web development course that is taught by [Brat Traversy](https://www.traversymedia.com/).
 
 ## Objective
 For me to learn on how to develop a dynamic website using Node.js and React.js.
