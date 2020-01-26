@@ -1,5 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://khoa:10Dieuran@mern-shopping-sbowm.mongodb.net/test?retryWrites=true&w=majority",
+    "mongoURI": "mongodb+srv://khoa:LdNSKjhfATFYJ1ez@cluster0-lspdw.mongodb.net/test?retryWrites=true&w=majority",
     "jwtSecret": "myJwtSecret"
-    
 }
